@@ -1,4 +1,4 @@
-# <img src="./src/../public/icons/todo-favicon.png" alt="Todo Icon" width="60" height="60"> Todo app
+# <img src="./src/../public/icons/todo-favicon.png" alt="Todo Icon" width="30" height="30"> Todo app
 
 ## Overview
 
@@ -21,19 +21,19 @@ The Todo app is a contemporary and effective tool designed for the organization 
 $ nvm use 14
 ```
 
-2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
+2. Clone the repository to your local machine, open the terminal (GitBash for Windows users), and clone the repo with the command bellow:
 
 ```sh
 git clone https://github.com/YaroslavYarynych/Todo-app.git
 ```
 
-3. Open editor, set up project and install necessary packages in the code-editor you use:
+3. Open the editor, set up a project, and install the necessary packages in the code editor you use:
 
 ```sh
 $ npm install
 ```
 
-4. Open the project in browser:
+4. Open the project in the browser:
 
 ```sh
 $ npm start
