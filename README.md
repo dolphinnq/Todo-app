@@ -24,7 +24,7 @@ $ nvm use 14
 2. Clone the repository to your local machine, open the terminal (GitBash for Windows users), and clone the repo with the command bellow:
 
 ```sh
-git clone https://github.com/YaroslavYarynych/Todo-app.git
+git clone https://github.com/dolphinnq/Todo-app.git
 ```
 
 3. Open the editor, set up a project, and install the necessary packages in the code editor you use:
