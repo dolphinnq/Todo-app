@@ -1,8 +1,8 @@
-# <img src="./src/../public/icons/todo-favicon.png" alt="Todo Icon" width="30" height="30"> Todo app
+# <img src="./src/../public/icons/todo-favicon.png" alt="Todo Icon" width="60" height="60"> Todo app
 
 ## Overview
 
-The Todo app is a contemporary and effective tool designed for the organization and management of your tasks and schedules.
+The Todo app is a contemporary and effective tool designed for the organization and management of your tasks and plans.
 
 - [Demo Link](https://dolphinnq.github.io/Todo-app/)
 
